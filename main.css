@@ -1180,14 +1180,15 @@ footer p{
         font-size: 20px;
       }
 
-      /* .arrowUpContainer {
-        width: 30px;
-        height: 30px;
-      }
-    
-      .clickUpBtn {
-        height: 30px;
-    } */
+    }
 
+@media only screen and (max-width: 414px) {
 
-}
+    .contactsContainer p {
+        font-size:40px;
+    }
+
+    .callBtn p {
+        font-size: 22px;
+    }
+ }

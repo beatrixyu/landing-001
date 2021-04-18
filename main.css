@@ -293,7 +293,7 @@ html {
   /* the begin of container 2 */
  .container-2 main {
     width: 100%;
-    height: 65vh; 
+    height: 70vh; 
     display: flex;
     justify-content: center;
  } 
@@ -303,7 +303,7 @@ html {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    width: 48%;
+    width: 45%;
 }  
 
 .container-2 main article h1{
@@ -322,7 +322,7 @@ html {
 
 .con2-sec1-left {
     display: flex;
-    width: 52%;
+    width: 55%;
     justify-content: flex-end;
     align-items: flex-end;
 }
@@ -372,7 +372,7 @@ html {
   }
 
   .con2-art2 article{
-    width: 52% !important;
+    width: 55% !important;
   }
 
 .con2-text2 {
@@ -401,7 +401,7 @@ html {
 
 .con2-sec2-img-div {
     height: 55vh;
-    width: 48%;
+    width: 45%;
 }
 
 .con2-sec2-img {
@@ -412,7 +412,7 @@ html {
 .con2-text3{
     width: 65%;
     text-align: left;
-    margin-top: -30%;
+    margin-top: -20%;
     }
     
 .con2-text3 h1 {
@@ -435,7 +435,7 @@ html {
 
 .con2-sec3-img-div{
     display: flex;
-    width: 52%;
+    width: 55%;
     justify-content: flex-end;
     align-items: flex-start;
 }
@@ -873,7 +873,7 @@ footer p{
     }
 
     .container-2 main {
-        height: 70vh;
+        height: 80vh;
     }
     
     .con2-text1 {
@@ -893,7 +893,7 @@ footer p{
     }
 
     .con2-text3 {
-        margin-top: -20%;
+        margin-top: -30%;
     }
 
     .container-3 {

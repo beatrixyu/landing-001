@@ -719,6 +719,8 @@ html {
     justify-content: center;
     letter-spacing: 0;
     text-decoration: none;
+-webkit-text-decoration-:none;
+    -webkit-text-decoration-line: none;
 }
 
 /* the end of contactsContainer  */
@@ -742,6 +744,8 @@ footer main{
 
 footer p{
     text-decoration: none;
+-webkit-text-decoration-:none;
+    -webkit-text-decoration-line: none;
     font-size: 15px;
     line-height: 18px;
     margin: 5px;
@@ -788,6 +792,8 @@ footer p{
 .arrowUp a{
     display: flex;
     text-decoration: none;
+-webkit-text-decoration-:none;
+    -webkit-text-decoration-line: none;
     /* justify-content: center;
     align-items: center;  */
 }

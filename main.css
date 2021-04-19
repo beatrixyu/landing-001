@@ -238,7 +238,7 @@ html {
 }
 
 .con1-right img{
-    width: 43%;
+    width: 45%;
     margin-left: 15%;
 }
 
@@ -654,7 +654,7 @@ html {
 
   .contact {
       width: 80%;
-      height: 45vh;
+      height: 50vh;
       display: flex;
       align-items: center;
   }
@@ -680,7 +680,7 @@ html {
     justify-content: center;
     border-radius: 2px;
     width: 80%;
-    height: 45vh;
+    height: 50vh;
 }
 
 .callBtn {
@@ -950,7 +950,7 @@ footer p{
     }
 
     .callBtn p {
-        font-size: 22px;
+        font-size: 25px;
     }
 
     footer p {

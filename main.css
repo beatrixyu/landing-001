@@ -978,10 +978,6 @@ footer p{
         padding: 0 30px;
     }
 
-    header{
-        height: 70vh;
-    }
-
     .intro {
         height: 55vh;
     }
@@ -989,6 +985,11 @@ footer p{
     header {
         height: 80vh;
     }
+
+    .introContainer {
+        height: 70%;
+    }
+
     .intro p {
         font-size: 32px;
     }

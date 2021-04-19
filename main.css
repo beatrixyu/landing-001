@@ -990,16 +990,25 @@ footer p{
         height: 55vh;
     }
 
+    .headerContainer {
+        height: 75vh;
+
+    }
     header {
         height: 80vh;
     }
 
     .introContainer {
-        height: 70%;
+        height: 40%;
     }
 
     .intro p {
         font-size: 32px;
+    }
+
+    .con1-left article h2 {
+        margin: 2% 0px;
+        font-size: 28px;
     }
 
     .introContainer {
@@ -1065,7 +1074,7 @@ footer p{
     .con1-right img{
         width: 80%;
         margin-left: 0%;
-        margin-bottom: 5%;
+        margin: 5%;
         }
 
     .gallary{

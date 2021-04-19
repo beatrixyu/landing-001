@@ -225,7 +225,7 @@ html {
     flex-direction: column;
     justify-content:flex-start;
     /* align-items: center; */
-    margin-left: 3%;
+    margin-left: 5%;
 }
 
 .con1-right article{
@@ -238,7 +238,7 @@ html {
 }
 
 .con1-right img{
-    width: 45%;
+    width: 48%;
     margin-left: 15%;
 }
 

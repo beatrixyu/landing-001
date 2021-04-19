@@ -44,7 +44,7 @@ function carousel() {
   if (slideIndex > slides.length) {slideIndex = 1}    
   slides[slideIndex-1].style.display = "block";  
 
-  setTimeout(carousel, 4000); 
+  setTimeout(carousel, 1000); 
   for (i = 0; i < dots.length; i++) {
     dots[i].classList.remove("active");
     }

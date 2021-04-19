@@ -987,7 +987,7 @@ footer p{
     }
 
     .intro {
-        height: 55vh;
+        height: 25vh;
     }
 
     .headerContainer {
@@ -1041,7 +1041,7 @@ footer p{
 
 
     .con1-left article p{
-        text-align: justify;
+        /* text-align: justify; */
     }
 
     .con1-right article{
@@ -1069,6 +1069,7 @@ footer p{
 
     .con1-right {
         align-items: center;
+        margin-left: 0;
     }
 
     .con1-right img{
@@ -1078,7 +1079,7 @@ footer p{
         }
 
     .gallary{
-        height: 50vh;
+        height: auto;
     }
 
     .container-2 {
@@ -1093,7 +1094,7 @@ footer p{
 
     .container-2 main article {
         width: 100%;
-        height: 40vh;
+        height: 30vh;
     }
 
     .container-2 main article h1{
@@ -1101,6 +1102,10 @@ footer p{
     }
 
     .con2-text1 h1{
+        margin-left: 10% !important;
+    }
+
+    .con2-text1 p {
         margin-left: 10% !important;
     }
 
@@ -1173,14 +1178,18 @@ footer p{
         margin: 0;
     }
 
+    .contactsContainer {
+        margin-top: 5%;
+    }
+
     .contactBanner img {
         width: 100%;
     }
 
-
     .contact {
         width: 100%;
     }
+
 .callBtn {
     width: 70%;
     /* margin-top: 10%; */
@@ -1262,12 +1271,12 @@ footer p{
 
     .container-2 main article {
         width: 100%;
-        height: 60vh;
+        height: 30vh;
         margin: 2% 0;
     }
 
-    .con2-text1 p {
-        margin-left: 10%;
+    .con2-text1 p{
+        margin-left: 10% !important;
     }
 
     .con2-text3 h1 {
@@ -1280,6 +1289,13 @@ footer p{
 
     .container-3 article h1 {
         font-size: 24px;
+    }
+
+    .contact {
+      height: 30vh;
+    }
+    .callContainer {
+        height: 30vh;
     }
 
     .contactsContainer p {

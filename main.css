@@ -196,8 +196,8 @@ html {
 }
 
 .con1-left article{
-    width: 60%;
-    margin-left: 25%;
+    width: 65%;
+    margin-left: 20%;
     height: 100%;
 }
 
@@ -225,6 +225,7 @@ html {
     flex-direction: column;
     justify-content:flex-start;
     /* align-items: center; */
+    margin-left: 3%;
 }
 
 .con1-right article{

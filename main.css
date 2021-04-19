@@ -725,16 +725,17 @@ html {
 footer{
     height: 25vh;
     color: #000000;
-    font-family: 'Bellefair', serif;
+    font-family: 'lato', serif;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 footer main{
     width: 80%;
     display: flex;
     justify-content: space-between;
-    align-items:center;
+    align-items:flex-start;
 }
 
 footer p{
@@ -751,7 +752,8 @@ footer p{
 
 .email:link {
     color: #000000;
-    text-decoration: #000000
+    text-decoration: none
+
   }
 
   .clickUpBtn {
@@ -777,7 +779,7 @@ footer p{
     position: absolute;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
 }
 .arrowUp i{
     font-size: 10px;
@@ -966,6 +968,7 @@ footer p{
 
     .clickUpBtn {
         height: 30px;
+        margin-top: 2%;
     }
 }
 
@@ -1185,7 +1188,7 @@ footer p{
     }
 
     #return-to-top {
-        font-size: 20px;
+        font-size: 10px;
       }
 
     }

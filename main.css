@@ -134,14 +134,16 @@ html {
 .intro {
     width: 100%;
     text-align: center;
-    height: 35vh;
+    height: 45vh;
 }
 
 .introContainer{
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     flex-direction: column;
-    height: 50%;}
+    margin-bottom: 2%;
+    height: 45%;
+}
 
 .introLine {
     background-color: #888888;
@@ -826,12 +828,16 @@ footer p{
     }
 
     .intro {
-        height: 43vh;
+        height: 45vh;
     }
 
     .intro p {
         font-size: 35px;
         line-height: 40px
+    }
+
+    .introContainer {
+        height: 45%;
     }
 
     .introLine {

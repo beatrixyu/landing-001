@@ -1017,7 +1017,7 @@ footer p{
     }
 
     .con1-right-img-div {
-        display: flex;
+        /* display: flex; */
         justify-content: center;
     }
 
